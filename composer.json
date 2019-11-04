@@ -1,0 +1,25 @@
+{
+  "type": "library",
+  "name": "topextend/ip2region",
+  "homepage": "https://github.com/topextend/ip2region",
+  "description": "Ip2Region for PHP",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Jarmin",
+      "email": "edshop@qq.com",
+      "homepage": "http://www.ladmin.cn"
+    }
+  ],
+  "keywords": [
+    "Ip2Region"
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "classmap": [
+      "Ip2Region.php"
+    ]
+  }
+}
